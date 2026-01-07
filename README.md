@@ -18,10 +18,11 @@ https://git.ryujinx.app/ryubing/ryujinx/-/releases/1.3.3
 https://github.com/THZoria/NX_Firmware/releases/tag/21.1.0
 
 - 60-120 fps+prod.keys:
-фпс в /mods
-ключи в /system
+  - фпс в /mods
+    https://drive.google.com/drive/folders/1YcI0oR5d0TXo3LUMc5HMoQpAYmT3BdZU?usp=drive_link
+  - ключи в /system
+    https://prodkeys.net/yuzu-prod-keys-n25/
 
-https://drive.google.com/drive/folders/1YcI0oR5d0TXo3LUMc5HMoQpAYmT3BdZU?usp=drive_link
 
 - Графоний мод + ДЛС инжектор фулл гайд (необязательное):
 
