@@ -11,6 +11,9 @@ magnet:?xt=urn:btih:39236F22E6992F46BC69134B2B23A3352BE8B140&dn=Monster+Hunter+G
 - Эмулятор:
 
 https://git.ryujinx.app/ryubing/ryujinx/-/releases/1.3.3
+Добавить папку с ромом и длс в OPTIONS > SETTINGS > INTERFACE (сразу открываетсяздесь)
+  <img width="1074" height="485" alt="{8A5BF3BF-683F-4F89-9185-1BB417942DBD}" src="https://github.com/user-attachments/assets/df8c222f-6edd-43d2-9e69-783372e9dc7b" />
+
 
 - Фирмварь свича:
 Через ржуникс в Actions > Install Firmware > Install a firmware from XCI or ZIP
