@@ -13,14 +13,14 @@ magnet:?xt=urn:btih:39236F22E6992F46BC69134B2B23A3352BE8B140&dn=Monster+Hunter+G
 https://git.ryujinx.app/ryubing/ryujinx/-/releases/1.3.3
 
 - Фирмварь свича:
-Через ржуникс в Tools > Install Firmware > Install a firmware from XCI or ZIP
+Через ржуникс в Actions > Install Firmware > Install a firmware from XCI or ZIP
 
 https://github.com/THZoria/NX_Firmware/releases/tag/21.1.0
 
 - 60-120 fps+prod.keys:
   - фпс в /mods
     https://drive.google.com/drive/folders/1YcI0oR5d0TXo3LUMc5HMoQpAYmT3BdZU?usp=drive_link
-  - ключи в /system
+  - ключи через Actions > Install keys(.KEYS) - оба title. & prod.
     https://prodkeys.net/yuzu-prod-keys-n25/
 
 
