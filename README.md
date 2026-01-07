@@ -18,14 +18,13 @@ zxczxczxczxczxczxczxczxczxcПоздняков.Подписатьсяzxczxczxczxc
 - Эмулятор:
   https://git.ryujinx.app/ryubing/ryujinx/-/releases/1.3.3
   
-  - Добавить папку с ромом и длс в OPTIONS > SETTINGS > INTERFACE (сразу открываетсяздесь)
-  <img width="1074" height="485" alt="{8A5BF3BF-683F-4F89-9185-1BB417942DBD}" src="https://github.com/user-attachments/assets/df8c222f-6edd-43d2-9e69-783372e9dc7b" />
-
-
 - Фирмварь свича:
 Через ржуникс в Actions > Install Firmware > Install a firmware from XCI or ZIP
 
   https://github.com/THZoria/NX_Firmware/releases/tag/21.1.0
+  
+- Добавить папку с ромом и длс в OPTIONS > SETTINGS > INTERFACE (сразу открываетсяздесь)
+  <img width="1074" height="485" alt="{8A5BF3BF-683F-4F89-9185-1BB417942DBD}" src="https://github.com/user-attachments/assets/df8c222f-6edd-43d2-9e69-783372e9dc7b" />
 
 - 60-120 fps+prod.keys:
   - фпс в /mods (FILE > OPEN RUJNIX FOLDER)
