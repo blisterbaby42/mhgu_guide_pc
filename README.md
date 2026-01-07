@@ -24,7 +24,9 @@ https://github.com/THZoria/NX_Firmware/releases/tag/21.1.0
     https://prodkeys.net/yuzu-prod-keys-n25/
 
 - Options > Settings > Network:
-  <img width="488" height="117" alt="image" src="https://github.com/user-attachments/assets/45acc925-86f7-4e90-be7d-109f3083820f" />
+  
+    <img width="488" height="117" alt="image" src="https://github.com/user-attachments/assets/45acc925-86f7-4e90-be7d-109f3083820f" />
+  
 ДАТЬ КОННЕКТ БУИТ ФАЙРВОЛЛ РУГАЦА
 в игре hunter connect - find
 - Графоний мод + ДЛС инжектор фулл гайд (необязательное):
