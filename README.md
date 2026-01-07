@@ -18,7 +18,7 @@ https://git.ryujinx.app/ryubing/ryujinx/-/releases/1.3.3
 https://github.com/THZoria/NX_Firmware/releases/tag/21.1.0
 
 - 60-120 fps+prod.keys:
-  - фпс в /mods
+  - фпс в /mods (FILE > OPEN RUJNIX FOLDER)
     https://drive.google.com/drive/folders/1YcI0oR5d0TXo3LUMc5HMoQpAYmT3BdZU?usp=drive_link
   - ключи через Actions > Install keys(.KEYS) - оба title. & prod.
     https://prodkeys.net/yuzu-prod-keys-n25/
