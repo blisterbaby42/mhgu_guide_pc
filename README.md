@@ -47,7 +47,8 @@ zxczxczxczxczxczxczxczxczxcПоздняков.Подписатьсяzxczxczxczxc
 
 https://www.reddit.com/r/MonsterHunter/comments/1icfs4z/mhgu_hd_texture_mod_60_fps_and_multiplayer_2025/
 
-====================================
+======================
 SAVE MANAGER
-====================================
+======================
+
 https://gbatemp.net/threads/mhxx-mhgu-save-manager.668514/
